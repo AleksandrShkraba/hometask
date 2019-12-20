@@ -1,0 +1,70 @@
+./.cache/mozilla/firefox/71yqscnj.default/cache2/entries/500D2BA57F1703BA390ACFCF72F1D05BC7CEAF2C
+./.cache/mozilla/firefox/71yqscnj.default/cache2/entries/DF5F5DBDED0F60FC1806EE386DF404632EDE2CA6
+./.cache/mozilla/firefox/71yqscnj.default/cache2/entries/28C7D8F6F30811AF99C1445C413C81558DFE0C52
+./.cache/mozilla/firefox/71yqscnj.default/startupCache/scriptCache-current.bin
+./.cache/mozilla/firefox/71yqscnj.default/safebrowsing/google4/goog-phish-proto.pset
+./.local/share/Trash/files/test3
+./.local/share/Trash/files/Aleksandr_Shkraba/10/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.2/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.3/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.4/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.5/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.6/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.7/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.8/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.9/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.10/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.11/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.12/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.13/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.14/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.15/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.16/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.17/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.18/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.19/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.19/mytest.tar.gz
+./.local/share/Trash/files/Aleksandr_Shkraba.20/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.20/mytest.tar.gz
+./.local/share/Trash/files/Aleksandr_Shkraba.21/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.21/mytest.tar.gz
+./.local/share/Trash/files/Aleksandr_Shkraba.22/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.22/mytest.tar.gz
+./.local/share/Trash/files/Aleksandr_Shkraba.23/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.24/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.24/mytest.tar
+./.local/share/Trash/files/Aleksandr_Shkraba.25/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.25/mytest.tar
+./.local/share/Trash/files/Aleksandr_Shkraba.26/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.26/mytest.tar
+./.local/share/Trash/files/mytest.tar
+./.local/share/Trash/files/Aleksandr_Shkraba.27/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.28/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.28/mytest.tar
+./.local/share/Trash/files/Aleksandr_Shkraba.29/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.29/mytest.tar
+./.local/share/Trash/files/Aleksandr_Shkraba.30/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.31/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.31/mytest.tar
+./.local/share/Trash/files/Aleksandr_Shkraba.32/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.33/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.33/mytest.tar
+./.local/share/Trash/files/Aleksandr_Shkraba.34/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.35/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.36/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.37/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.37/mytest/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.38/30/test3
+./.local/share/Trash/files/Aleksandr_Shkraba.39/30/test3
+./ISO/CentOS-7-x86_64-DVD-1810.iso
+./.jenkins/cache/jars/B0/5C81CC473497B4A604561E9F3CF9F2.jar
+./VirtualBox-6.0-6.0.12_133076_el7-1.x86_64.rpm
+./VirtualBox-5.2-5.2.32_132073_el7-1.x86_64.rpm
+./VirtualBox VMs/CentOS 7.x Full/CentOS 7.x Full.vdi
+./VirtualBox VMs/CentOS 7.x Full/Snapshots/{e81a6049-95c5-4b92-b56e-be0e37930556}.vdi
+./VirtualBox VMs/CentOS 7.x Full/Snapshots/2019-09-16T11-12-27-015501000Z.sav
+./VirtualBox VMs/CentOS 7.x Full/Snapshots/{79560fa9-1b7e-4464-8baa-4a1bb45f2c28}.vdi
+./VirtualBox VMs/CentOS 7.x Full/Snapshots/2019-09-16T11-14-07-284932000Z.sav
+./VirtualBox VMs/CentOS 7.x Full/second.vdi
+./Oracle_VM_VirtualBox_Extension_Pack-5.2.32.vbox-extpack
+./Aleksandr_Shkraba/30/test3

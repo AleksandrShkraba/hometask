@@ -1,0 +1,10 @@
+[Unit]
+Description=MongoDB
+Documentation=https://docs.mongodb.org/manual
+After=network.target
+
+[Service]
+ExecStart=/opt/mongodb-linux-x86_64-rhel70-4.2.0/bin/mongod
+
+[Install]
+WantedBy=multi-user.target
