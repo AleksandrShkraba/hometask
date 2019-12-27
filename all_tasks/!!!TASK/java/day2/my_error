@@ -1,0 +1,15 @@
+<html> 
+     <head> 
+          <title> 
+               my_error
+          </title>
+     </head> 
+     <body> 
+          <H1> 
+               This is my error 500. 
+          </H1> 
+          <P> 
+               For java_module! 
+          </P> 
+          <P> 
+

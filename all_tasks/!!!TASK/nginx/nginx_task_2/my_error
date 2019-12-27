@@ -1,0 +1,15 @@
+<html> 
+     <head> 
+          <title> 
+               my_error
+          </title>
+     </head> 
+     <body> 
+          <H1> 
+               This is my error 404. 
+          </H1> 
+          <P> 
+               From loadbalancer! 
+          </P> 
+          <P> 
+
